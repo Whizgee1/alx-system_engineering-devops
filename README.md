@@ -1,1 +1,1 @@
-my stuff
+shell redirection
